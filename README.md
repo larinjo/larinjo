@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @larinjo
-- 👀 I’m interested in computer science, engineering and cars
-- 🌱 I’m currently learning computer vision, embedded and other stuff
+- 👀 I’m interested in computer science, electronics, engineering and cars
 - 💞️ I’m looking to collaborate on anything that isn't web development
 - 📫 How to reach me ... ?
 
